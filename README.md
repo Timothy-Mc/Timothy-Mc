@@ -1,5 +1,5 @@
 # Hello, I'm Timothy
-<a href="https://linkedin.com](https://www.linkedin.com/in/timothy-mcleod-b01b9b236"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/timothy-mcleod-b01b9b236"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 👋 About Me
 Hey there! I'm passionate about **technology, security, and automation**. My journey started with a curiosity for **how systems work and how they can be protected**, which naturally led me into **cybersecurity**. Over time, I’ve expanded my skills into **DevSecOps, cloud security, and infrastructure as code**. This portfolio is a showcase of my diverse projects, skills, and experiences!
