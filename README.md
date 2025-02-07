@@ -49,39 +49,38 @@ In addition to security, I work on **cloud automation, software development, and
   -->
 </div>
 
+<!--
 ### 🛠️ Cloud Security & Automation
 <div>
-      <!-- 
     <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=Kubernetes&logoColor=white" />
     <img src="https://img.shields.io/badge/-Terraform-623CE4?&style=for-the-badge&logo=Terraform&logoColor=white" />
     <img src="https://img.shields.io/badge/-Ansible-EE0000?&style=for-the-badge&logo=Ansible&logoColor=white" />
-    -->
 </div>
 
+<!--
 ### 📊 Cloud Security & SIEM
 <div>
-  <!-- 
     <img src="https://img.shields.io/badge/-AWS_Security-FF9900?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
     <img src="https://img.shields.io/badge/-Azure_Security-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-  -->
 </div>
 
----
-
+<!-- --- -->
+<!-- 
 ## 📜 Certifications
 <div>
-<!-- 
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS_CCP-FF9900?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
     <img src="https://img.shields.io/badge/-Terraform_Associate-623CE4?&style=for-the-badge&logo=HashiCorp&logoColor=white" />
--->
+
 </div>
+-->
 
----
 
-## 🚀 Featured Projects
+<!-- --- -->
+
+<!-- ## 🚀 Featured Projects
 📊 **Cyber Attack Detection in FinTech** - Honors project using machine learning for real-time threat detection in financial environments.
 <!--
 🔍 **Detection Lab** - Focused on SIEM implementation, log analysis, and network traffic monitoring.  
@@ -89,14 +88,14 @@ In addition to security, I work on **cloud automation, software development, and
 🌎 **IaC for AWS Security** - Infrastructure as Code (IaC) for secure cloud deployments.  
 🤖 **AI Security Analysis** - Created a machine learning model for analyzing security logs.  
 -->
-
+<!--
 ---
 
 ## ✍️ Write-Ups & Blogs
 <!--📄 [Building a Secure DevOps Pipeline](https://example.com)  -->
 <!--📄 [Automating Security with Terraform](https://example.com)  -->
 <!--📄 [Cloud Security Best Practices](https://example.com) -->
-📄 [AI in Cybersecurity: Detecting Attacks in FinTech](https://example.com)  
+<!--📄 [AI in Cybersecurity: Detecting Attacks in FinTech](https://example.com) -->  
 
 <!---
 
