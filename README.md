@@ -7,7 +7,7 @@ Hey there! I'm passionate about **technology, security, and automation**. My jou
 ---
 
 ## 🎯 Objective
-My goal is to become a **Security Engineer**, focusing on building **secure systems, implementing robust security measures, and integrating security at every level of development and deployment**. I specialize in **security automation, cloud security, threat detection, and infrastructure hardening**. Additionally, I am currently working on an **Honors Project on Cyber Attack Detection using Machine Learning in FinTech**, exploring the intersection of AI and cybersecurity.
+My goal is to become a **Security Engineer**, focusing on building **secure systems, implementing robust security measures, and integrating security at every level of development and deployment**. I specialize in **security automation, cloud security, threat detection, and infrastructure hardening**. Additionally, I am currently working on an **Honors Project on Cyber Attack Detection using Machine Learning in FinTech**, exploring the intersection of AI and cybersecurity to improve threat detection.
 
 ---
 
