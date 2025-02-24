@@ -10,12 +10,11 @@ Hey there! I'm passionate about **technology, security, and automation**. My jou
 My goal is to become a **Security Engineer**, focusing on building **secure systems, implementing robust security measures, and integrating security at every level of development and deployment**. I specialize in **security automation, cloud security, threat detection, and infrastructure hardening**. Additionally, I am currently working on an **Honors Project on Cyber Attack Detection using Machine Learning in FinTech**, exploring the intersection of AI and cybersecurity to improve threat detection.
 
 ---
-
+<!--
 ## Skills & Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-<!--
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Cloud Security & Compliance                   | AWS Security Framework|
 | Infrastructure as Code (IaC) with Terraform   | Secure AWS Deployment|
@@ -23,20 +22,20 @@ My goal is to become a **Security Engineer**, focusing on building **secure syst
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Security Monitoring & Incident Response       | Threat Detection Platform|
 | AI-Powered Threat Detection                   | Cyber Attack Detection in FinTech|
--->
 
 ---
+-->
 
 ## Beyond Security: My Tech Projects
 In addition to security, I work on **cloud automation, software development, and AI-driven security solutions**. Some recent projects include:
-- **Cyber Attack Detection using Machine Learning** - Honors project focusing on detecting attacks within FinTech environments.
+- **Machine Learning-based Cyberattack Detection within FinTech** - Honors project focusing on detecting attacks within FinTech environments.
 <!-- - **Security Engineering in AWS & Azure** - Implementing security best practices for cloud environments.
 - **AI Chatbot for Security Analysis** - Uses **NLP and Python** to analyze security logs.
 - **Automated Compliance Scanning** - Scripts to check **CIS benchmarks for AWS and Kubernetes**.
 -->
 
 ---
-
+<!--
 ## Tools & Technologies
 
 ### Security Engineering & Threat Detection
@@ -46,8 +45,9 @@ In addition to security, I work on **cloud automation, software development, and
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-Trivy-000000?&style=for-the-badge&logo=Trivy&logoColor=white" />
-  -->
+
 </div>
+
 
 <!--
 ### Cloud Security & Automation
