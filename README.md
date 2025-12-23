@@ -1,15 +1,29 @@
 # Hello, I'm Timothy
 <a href="https://www.linkedin.com/in/timothy-mcleod-b01b9b236"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+---
+
 ## About Me
-Hey there! I'm passionate about **technology, security, and automation**. My journey started with a curiosity for **how systems work and how they can be protected**, which naturally led me into **cybersecurity**. Over time, I’ve expanded my skills into **security engineering, cloud security, infrastructure as code, and AI-driven security solutions**. This portfolio is a showcase of my diverse projects, skills, and experiences!
+Hi! I'm passionate about **technology, cybersecurity, and automation**. I started by exploring **how systems work and how to protect them**, which led me into cybersecurity. Over time, I’ve developed skills in **security engineering, cloud security, infrastructure as code, and AI-driven security solutions**.  
+
+I enjoy tackling complex problems, building secure systems, and leveraging AI to make security smarter and more efficient.
 
 ---
 
 ## Objective
-My goal is to become a **Security Engineer**, focusing on building **secure systems, implementing robust security measures, and integrating security at every level of development and deployment**. I specialize in **security automation, cloud security, threat detection, and infrastructure hardening**. Additionally, I am currently working on an **Honors Project on Cyber Attack Detection using Machine Learning in FinTech**, exploring the intersection of AI and cybersecurity to improve threat detection.
+I am working towards becoming a **Security Engineer**, focusing on **building secure systems, implementing security measures, and integrating security at every stage of development and deployment**.  
+
+Currently, I am developing my **Honors Project on Cyber Attack Detection using Machine Learning in FinTech**, exploring how AI can enhance threat detection in financial systems.
 
 ---
+
+## Projects
+Here are some of my key projects:
+
+- **[Cyber Attack Detection in FinTech](#)** – Honors project using machine learning to detect attacks in financial environments.  
+- **[Biometric Authentication System Using Face Recognition](#)** – Python-based authentication system leveraging facial recognition.  
+- **[HybridIDPS](https://github.com/TheTheoM/HybridIDPS)** – Proof-of-concept hybrid intrusion detection and prevention system.  
+- **[Network Scanner](#)** – Python-based network scanning tool.
 <!--
 ## Skills & Projects
 
@@ -26,9 +40,10 @@ My goal is to become a **Security Engineer**, focusing on building **secure syst
 ---
 -->
 
-## Beyond Security: My Tech Projects
+<!-- ## Beyond Security: My Tech Projects
 In addition to security, I work on **cloud automation, software development, and AI-driven security solutions**. Some recent projects include:
 - **Machine Learning-based Cyberattack Detection within FinTech** - Honors project focusing on detecting attacks within FinTech environments.
+-->
 <!-- - **Security Engineering in AWS & Azure** - Implementing security best practices for cloud environments.
 - **AI Chatbot for Security Analysis** - Uses **NLP and Python** to analyze security logs.
 - **Automated Compliance Scanning** - Scripts to check **CIS benchmarks for AWS and Kubernetes**.
