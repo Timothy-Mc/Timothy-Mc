@@ -1,5 +1,8 @@
 # Hello, I'm Timothy
 <a href="https://www.linkedin.com/in/timothy-mcleod-b01b9b236"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/b1gzy.png" alt="Your Image Badge" />
+
 
 ---
 
