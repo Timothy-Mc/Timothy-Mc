@@ -8,16 +8,16 @@
 ---
 
 ## About Me
-Hi! I'm passionate about **technology, cybersecurity, and automation**. I started by exploring **how systems work and how to protect them**, which led me into cybersecurity. Over time, I’ve developed skills in **security engineering, cloud security, infrastructure as code, and AI-driven security solutions**.  
+I’ve grown up around computers and technology, with early interests shaped by gaming and hands-on exploration. Over the past few years, that interest has evolved into a strong focus on networking, IT, and cybersecurity, where I enjoy understanding how systems work, how they fail, and how they can be secured.
 
-I enjoy tackling complex problems, building secure systems, and leveraging AI to make security smarter and more efficient.
+I’m particularly interested in networking and homelabbing, threat detection and SIEM, malware and adversary behaviour, and automation through scripting. I enjoy hands-on building and problem solving, while also valuing the deeper understanding that comes from research and analysis. I’m currently strengthening my practical experience by actively building, experimenting, and filling the gaps I didn’t fully explore earlier in my studies.
 
 ---
 
 ## Objective
-I am working towards becoming a **Security Engineer**, focusing on **building secure systems, implementing security measures, and integrating security at every stage of development and deployment**.  
+I am working toward a career in cybersecurity, with interests spanning SOC operations, security engineering, and networking-focused IT roles. My goal is to build a strong technical foundation across infrastructure, detection, and automation, and to progress toward designing and securing systems end to end.
 
-Currently, I am developing my **Honors Project on Cyber Attack Detection using Machine Learning in FinTech**, exploring how AI can enhance threat detection in financial systems.
+Alongside my studies, I am developing my skills through homelabbing, scripting (with a particular focus on Python), and hands-on security experimentation. I am also completing an Honors project on Cyber Attack Detection using Machine Learning in FinTech, exploring how AI-driven approaches can enhance threat detection in financial systems.
 
 ---
 
